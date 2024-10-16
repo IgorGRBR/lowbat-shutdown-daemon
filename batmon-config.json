@@ -1,0 +1,5 @@
+{
+    "polling_rate": 30,
+    "charge_threshold": 50,
+    "warning_period": 120
+}
